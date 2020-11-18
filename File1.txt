@@ -1,3 +1,1 @@
-This is some text
-changed it now
-
+adding some text to the file
